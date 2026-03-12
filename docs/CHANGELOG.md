@@ -1,3 +1,29 @@
+## [2.0.0](https://github.com/SkeLLLa/lint-config/compare/v1.0.17...v2.0.0) (2026-03-12)
+
+### ⚠ BREAKING CHANGES
+
+* eslint 10
+
+### 🛠 Fixes
+
+* ci try without node-version ([adf28dd](https://github.com/SkeLLLa/lint-config/commit/adf28ddf86e6dba10acd1646cd047c32d52ba455))
+* remove dev engines ([6031fea](https://github.com/SkeLLLa/lint-config/commit/6031fea0687783cc2cee2c782053381d5abf05fd))
+
+### 🚀 Features
+
+* eslint 10 ([51befc5](https://github.com/SkeLLLa/lint-config/commit/51befc5c18828263f56344186fc28415906644a2))
+
+### 🧾 Other
+
+* **deps-dev:** bump @microsoft/api-documenter from 7.27.1 to 7.27.3 ([013883d](https://github.com/SkeLLLa/lint-config/commit/013883d070f86a810df067ad0a1f7ccbec369c30))
+* **deps-dev:** bump @microsoft/api-extractor from 7.53.1 to 7.55.1 ([a67deb0](https://github.com/SkeLLLa/lint-config/commit/a67deb0df6db2d025c289c563345c1b31e62ee11))
+* **deps-dev:** bump @types/node from 24.9.0 to 24.10.0 ([deccbd2](https://github.com/SkeLLLa/lint-config/commit/deccbd260ebfa05d1f9a88e175cc00404719a510))
+* **deps-dev:** bump eslint from 9.38.0 to 9.39.0 ([2a74a18](https://github.com/SkeLLLa/lint-config/commit/2a74a18c43b7703b5272746206bce3770355e5bd))
+* **deps:** bump @eslint/js from 9.38.0 to 9.39.0 ([daa3b0d](https://github.com/SkeLLLa/lint-config/commit/daa3b0d53240cb64989b40c8f14379d727b46ed2))
+* **deps:** bump @eslint/js from 9.39.0 to 9.39.1 ([9b13d61](https://github.com/SkeLLLa/lint-config/commit/9b13d613603190f35b66bd79a30aeb405fe9ee82))
+* **deps:** bump @typescript-eslint/utils from 8.46.2 to 8.48.0 ([db4a6f1](https://github.com/SkeLLLa/lint-config/commit/db4a6f1f6eb528aecf3886ae25baf6510857b0ee))
+* **dev:** use mise ([d8bc906](https://github.com/SkeLLLa/lint-config/commit/d8bc9068e202a6f52070f08de7a064e59aea1c1b))
+
 ## [1.0.17](https://github.com/SkeLLLa/lint-config/compare/v1.0.16...v1.0.17) (2025-11-17)
 
 ### 🛠 Fixes
