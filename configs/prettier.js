@@ -53,6 +53,6 @@ export default {
     '^[.]', // relative imports
   ],
   importOrderParserPlugins: ['typescript', 'jsx', 'decorators-legacy'],
-  importOrderTypeScriptVersion: '5.9.3',
+  importOrderTypeScriptVersion: '6.0.2',
   jsonRecursiveSort: true,
 };
