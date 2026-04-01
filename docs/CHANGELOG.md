@@ -1,3 +1,13 @@
+## [3.0.0](https://github.com/SkeLLLa/lint-config/compare/v2.0.0...v3.0.0) (2026-04-01)
+
+### ⚠ BREAKING CHANGES
+
+* eslint 10 and ts 6
+
+### 🚀 Features
+
+* eslint 10 and ts 6 ([fb42018](https://github.com/SkeLLLa/lint-config/commit/fb42018bb82942d5e0923deb973cc29aa1056cb6))
+
 ## [2.0.0](https://github.com/SkeLLLa/lint-config/compare/v1.0.17...v2.0.0) (2026-03-12)
 
 ### ⚠ BREAKING CHANGES
