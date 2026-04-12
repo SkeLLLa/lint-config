@@ -1,3 +1,17 @@
+## [3.0.1](https://github.com/SkeLLLa/lint-config/compare/v3.0.0...v3.0.1) (2026-04-12)
+
+### 🛠 Fixes
+
+* **deps:** bump @typescript-eslint/utils from 8.58.0 to 8.58.1 ([59fa38b](https://github.com/SkeLLLa/lint-config/commit/59fa38ba992b4050fc98aaa5ff950d5b9ec3398c))
+* **deps:** bump globals from 17.4.0 to 17.5.0 ([eae5fce](https://github.com/SkeLLLa/lint-config/commit/eae5fcee9fbac436cbffaa864c0d14c40566ed83))
+* **deps:** bump prettier-plugin-sh from 0.18.0 to 0.18.1 ([b5a33d5](https://github.com/SkeLLLa/lint-config/commit/b5a33d55f3a68cd6e7900989c657a2cdd54da2c5))
+* **deps:** bump typescript-eslint from 8.58.0 to 8.58.1 ([8da7c40](https://github.com/SkeLLLa/lint-config/commit/8da7c40798aecb25a1c167c6976df3a5362f04fd))
+
+### 🧾 Other
+
+* **deps-dev:** bump the all-minor-patch group with 4 updates ([77216ab](https://github.com/SkeLLLa/lint-config/commit/77216abc450e3517cd8c8ab4876bf2c3995642cd))
+* **deps:** bump the all-actions group with 6 updates ([73d7537](https://github.com/SkeLLLa/lint-config/commit/73d75376d6a381ebce6e0004cd439081a0547f4c))
+
 ## [3.0.0](https://github.com/SkeLLLa/lint-config/compare/v2.0.0...v3.0.0) (2026-04-01)
 
 ### ⚠ BREAKING CHANGES
