@@ -1,3 +1,9 @@
+## [3.0.3](https://github.com/SkeLLLa/lint-config/compare/v3.0.2...v3.0.3) (2026-04-24)
+
+### 🛠 Fixes
+
+* **deps:** bump typescript-eslint from 8.58.1 to 8.58.2 ([3c8e24f](https://github.com/SkeLLLa/lint-config/commit/3c8e24fbdab52aa7fd2306d03ce4cde7a20f7f33))
+
 ## [3.0.2](https://github.com/SkeLLLa/lint-config/compare/v3.0.1...v3.0.2) (2026-04-24)
 
 ### 🛠 Fixes
