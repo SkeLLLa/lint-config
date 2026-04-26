@@ -1,3 +1,14 @@
+## [3.0.4](https://github.com/SkeLLLa/lint-config/compare/v3.0.3...v3.0.4) (2026-04-26)
+
+### 🧾 Other
+
+* **deps-dev:** bump the all-minor-patch group across 1 directory with 5 updates ([ca4b9d5](https://github.com/SkeLLLa/lint-config/commit/ca4b9d54bb47c41b2ba71026cd3f805e4f91c8fc))
+* **deps:** bump the all-actions group across 1 directory with 2 updates ([9033e64](https://github.com/SkeLLLa/lint-config/commit/9033e64c85aee7bd14b88cb28ef7f408b59c73b9))
+
+### 🛠 Fixes
+
+* **deps:** bump typescript-eslint from 8.58.2 to 8.59.0 ([82348b1](https://github.com/SkeLLLa/lint-config/commit/82348b1567531ba0f073707be0c7e4c12d2dacab))
+
 ## [3.0.3](https://github.com/SkeLLLa/lint-config/compare/v3.0.2...v3.0.3) (2026-04-24)
 
 ### 🛠 Fixes
